@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 2.6.0 (2024-03-06)
+
+
+### Features
+
+* update the maximum version of appsflyer sdkto 7.0.0 in Package.swift ([00efa1e](https://github.com/1abhishekpandey/rudder-integration-appsflyer-ios/commit/00efa1e6d9f69bd4acf0a202435b61335dd331ce))
+
 ## 2.5.0 (2024-03-06)
 
 
