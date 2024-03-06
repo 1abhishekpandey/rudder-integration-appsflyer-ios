@@ -11,12 +11,21 @@
         }
       },
       {
+        "package": "RSCrashReporter",
+        "repositoryURL": "https://github.com/rudderlabs/crash-reporter-ios",
+        "state": {
+          "branch": null,
+          "revision": "ee563535b64d9d5feacd0fa243663b2658033a19",
+          "version": "1.0.1"
+        }
+      },
+      {
         "package": "MetricsReporter",
         "repositoryURL": "https://github.com/rudderlabs/metrics-reporter-ios",
         "state": {
           "branch": null,
-          "revision": "2f57ea3c893fd313484f82adf4adfe8d24deacab",
-          "version": "1.0.0"
+          "revision": "c5fe7cc861a83ec75978a516c02398c2a2cb1f20",
+          "version": "1.2.1"
         }
       },
       {
@@ -33,8 +42,8 @@
         "repositoryURL": "https://github.com/rudderlabs/rudder-sdk-ios",
         "state": {
           "branch": null,
-          "revision": "4766914edbc4977f28962bf7b0085105c5f022d0",
-          "version": "1.19.2"
+          "revision": "6defba00e35d5652f83fbebd0b360d722bfaab34",
+          "version": "1.25.2"
         }
       }
     ]
